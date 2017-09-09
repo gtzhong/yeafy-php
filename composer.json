@@ -1,0 +1,25 @@
+{
+    "name": "gtzhong/yeafyPHP",
+    "description": "yeafy frame",
+    "type": "yeafy-framework",
+    "keywords": [
+        "framework",
+        "yeafyPHP"
+    ],
+    "homepage": "http://www.yeafy.com/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "gtzhong",
+            "email": "845272922@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yeafy\\": "library/yeafy"
+        }
+    }    
+}
