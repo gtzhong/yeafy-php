@@ -14,4 +14,9 @@ class Controller
     {
         echo '我需要展示视同';
     }
+
+    public function test()
+    {
+        
+    }
 }
