@@ -19,4 +19,9 @@ class Controller
     {
         
     }
+
+    public function test2()
+    {
+        echo '我来测试composer update gtzhong/yeafy-php方法';
+    }
 }
